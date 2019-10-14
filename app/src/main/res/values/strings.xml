@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CreativeLK</string>
+    <string name="addArtist">Add Artist</string>
+    <string name="addPhoto">Add Photograph</string>
+    <string name="delete">Delete Artist/Photograph</string>
+    <string name="viewPhoto">View Photograph List</string>
+    <string name="textView">Artist Name</string>
+    <string name="addBtn">Add Artist</string>
+    <string name="textView2">Photo Name</string>
+    <string name="textView3">Artist Name</string>
+    <string name="textView4">Photo Category</string>
+    <string name="textView5">Photograph</string>
+    <string name="addPhotoBtn">Add Photograph</string>
+    <string name="textView6">Photo Name</string>
+    <string name="textView7">Artist Name</string>
+    <string name="deletePhotoBtn">Delete Photo</string>
+    <string name="deleteArtistBtn">Delete Artist</string>
+    <string name="textView8">Artist Name</string>
+    <string name="searchBtn">Search</string>
+    <string-array name="photoCat">
+        <item>Landscape</item>
+        <item>Wildlife</item>
+        <item>Portrait</item>
+        <item>Wedding</item>
+        <item>Fashion</item>
+        <item>Black and White</item>
+    </string-array>
+</resources>
